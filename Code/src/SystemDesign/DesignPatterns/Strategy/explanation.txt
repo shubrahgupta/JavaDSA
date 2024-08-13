@@ -1,0 +1,2 @@
+Strategy Design Pattern: When a parent has 2 child classes and behaviour of 2 children is same
+                            but different from the parent.
