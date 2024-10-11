@@ -39,6 +39,11 @@ class Node {
         left = null;
         right = null;
     }
+    public Node() {
+        this.left = null;
+        this.right = null;
+
+    }
 
     public Node(int data, Node left, Node right) {
         this.data = data;
